@@ -1,5 +1,5 @@
 ---
-title: "sven-panis.github.io"
+title: "Sven Panis"
 ---
 
 This is a Quarto website.

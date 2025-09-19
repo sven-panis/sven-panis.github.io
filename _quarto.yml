@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Sven Panis"
+  description: "Personal website"
   navbar:
     left:
       - href: index.qmd
@@ -12,11 +13,10 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: spacelab
     css: styles.css
     toc: true
+    toc-location: right
 
 
 
