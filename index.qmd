@@ -2,9 +2,7 @@
 title: "Sven Panis"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is my personal website. I am an experimental psychologist interested in the temporal dynamics of psychological processes.
 
 ```{r}
 1 + 1
