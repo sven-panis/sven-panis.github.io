@@ -13,9 +13,12 @@ about:
     - text: GitHub
       icon: github
       href: https://github.com/sven-panis
-    - text: resume
+    - text: CV
       icon: file-text
       href: CV_Panis_Sven_2025.pdf
+    - text: Scholar
+      icon: google
+      href: https://scholar.google.com/citations?user=7mZgaXMAAAAJ&hl=nl
   id: ppc
 ---
 
