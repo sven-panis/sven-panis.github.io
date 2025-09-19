@@ -3,4 +3,13 @@ title: "projects"
 format: html
 ---
 
-Here will come my projects.
+## Bayesian Event History Analysis
+
+In this project, Dr. Richard Ramsey and I developed a set of tutorials for applying Bayesian event history analysis to response time (RT) and accuracy data.
+The tutorials are written in R and can be downloaded [here](https://github.com/sven-panis/Tutorial_Event_History_Analysis).
+
+
+## Revisiting the Speed-of-Processing Hypothesis
+
+When is conflict detected by the brain? What is the temporal dynamics of conflict detection and resolution? We apply event history analysis and micro-level speed-accuracy tradeoff analysis to the RT + accuracy data measurend in various manual interference tasks (Stroop, Simon, flanker, stop-signal) to study whether the onset of interference is time-locked to the onset of the visual, task-irrelevant feature (e.g., word meaning in the Stroop task).
+

@@ -3,7 +3,7 @@ title: "publications"
 format: html
 ---
 
-# Clinical experimental psychology
+## Clinical experimental psychology
 
 Burnett, H. G., Panis, S., Wagemans, J., & Jellema, T. (2015). Impaired identification of impoverished animate but not inanimate objects in adults with high-functioning autism spectrum disorder. Autism Research, 8(1), 52-60.
 
@@ -11,7 +11,7 @@ Evers, K., Panis, S., Torfs, K., Steyaert, J., Noens, I., & Wagemans, J. (2014).
 
 Panis, S., Torfs, K., Gillebert, C. R., Wagemans, J., & Humphreys, G. W. (2017). Neuropsychological evidence for the temporal dynamics of category-specific naming. Visual Cognition, 25(1-3), 79-99.
 
-# Experimental psychology
+## Experimental psychology
 
 Panis, S. (2020). How can we learn what attention is? Response gating via multiple direct routes kept in check by inhibitory control processes. Open Psychology, 2, 238-279. https://doi.org/10.1515/psych-2020-0107
 
@@ -47,7 +47,7 @@ Vandekerckhove, J., Panis, S., & Wagemans, J. (2007). The concavity effect is a 
 
 Wolkersdorfer, M. P., Panis, S., & Schmidt, T. (2020). Temporal dynamics of sequential motor activation in a dual-prime paradigm: Insights from conditional accuracy and hazard functions. Attention, Perception, & Psychophysics, 82, 2581-2602. https://doi.org/10.3758/s13414-020-02010-5
 
-# fMRI
+## fMRI
 
 Gillebert, C. R., Op de Beeck, H., Panis, S., & Wagemans, J. (2009). Subordinate categorization enhances the neural selectivity in human object-selective cortex for fine shape differences. Journal of cognitive Neuroscience, 21, 1054-1064.
 
@@ -55,10 +55,10 @@ Panis, S., Vangeneugden, J., Op de Beeck, H., & Wagemans, J. (2008). The represe
 
 Panis, S., Wagemans, J., & Op de Beeck, H. (2011). Dynamic norm-based encoding for unfamiliar shapes in human visual cortex. Journal of Cognitive Neuroscience, 23(7), 1829-1843. https://doi.org/10.1162/jocn.2010.21559
 
-# Eye-tracking
+## Eye-tracking
 
 Germeys, F., De Graef, P., Panis, S., Van Eccelpoel, C., & Verfaillie, K. (2004). Transsaccadic integration of bystander locations. Visual Cognition, 11(2-3), 203-234.
 
-# Human factors
+## Human factors
 
 Muramalla, S., Tarawneh, R. A., Humayoun, S. R., Moses, R., Panis, S., & Ebert, A. (2017). Radial vs. rectangular: Evaluating visualization layout impact on user task performance of hierarchical data. IADIS International Journal on Computer Science & Information Systems, 12(2), 17-31.

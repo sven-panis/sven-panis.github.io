@@ -22,6 +22,6 @@ about:
 :::{#ppc}
 
 Welcome! I am an experimental psychologist interested in the temporal dynamics of psychological processes.
-Check out my ongoing projects, my publications, and some R code to estimate and plot hazard functions of response occurrence from empirical RT data.
+Check out my ongoing projects, my publications, and examples of hazard functions of response occurrence estimated from empirical RT data.
 
 :::

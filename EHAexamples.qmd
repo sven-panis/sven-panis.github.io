@@ -1,0 +1,6 @@
+---
+title: "examples"
+format: html
+---
+
+Here will appear some examples of event history analysis applications.

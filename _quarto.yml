@@ -11,6 +11,7 @@ website:
         text: Home
       - projects.qmd
       - publications.qmd
+      - EHAexamples.qmd
 
 format:
   html:
