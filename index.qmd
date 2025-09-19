@@ -1,9 +1,27 @@
 ---
 title: "Sven Panis"
+image: "SvenPanis.jpg"
+resources: CV_Panis_Sven_2025.pdf
+about:
+  template: jolla
+  image-shape: rounded
+  image-width: 5em
+  links:
+#    - text: Email
+#      icon: envelope
+#      href: sven.panis@hest.ethz.ch
+    - text: GitHub
+      icon: github
+      href: https://github.com/sven-panis
+    - text: resume
+      icon: file-text
+      href: CV_Panis_Sven_2025.pdf
+  id: ppc
 ---
 
-Welcome! I am an experimental psychologist interested in the temporal dynamics of psychological processes.
+:::{#ppc}
 
-```{r}
-1 + 1
-```
+Welcome! I am an experimental psychologist interested in the temporal dynamics of psychological processes.
+Check out my ongoing projects, my publications, and some R code to estimate and plot hazard functions of response occurrence from empirical RT data.
+
+:::
