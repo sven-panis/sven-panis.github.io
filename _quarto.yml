@@ -17,7 +17,7 @@ format:
   html:
     theme: sandstone
     mainfont: courier
-    fontsize: 1.5rem
+    fontsize: 1.1rem
     monofont: courier new
     css: styles.css
     toc: true
