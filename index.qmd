@@ -2,7 +2,7 @@
 title: "Sven Panis"
 ---
 
-This is my personal website. I am an experimental psychologist interested in the temporal dynamics of psychological processes.
+Welcome! I am an experimental psychologist interested in the temporal dynamics of psychological processes.
 
 ```{r}
 1 + 1

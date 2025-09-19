@@ -10,10 +10,14 @@ website:
       - href: index.qmd
         text: Home
       - projects.qmd
+      - publications.qmd
 
 format:
   html:
-    theme: spacelab
+    theme: sandstone
+    mainfont: courier
+    fontsize: 1.5rem
+    monofont: courier new
     css: styles.css
     toc: true
     toc-location: right
