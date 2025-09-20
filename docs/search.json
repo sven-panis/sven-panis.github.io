@@ -25,21 +25,21 @@
     "href": "projects.html",
     "title": "projects",
     "section": "",
-    "text": "What is the best way to analyze response times, saccade latencies, and fixation durations? Which approach can deal with right-censored observations (e.g., trials without a response)? Dr. Richard Ramsey and I developed a set of tutorials for applying Bayesian event history analysis to response time (RT) data, and Bayesian micro-level speed-accuracy tradeoff analysis to timed accuracy data. The tutorials are written in R and can be downloaded here."
+    "text": "What is the best way to analyze response times, saccade latencies, and fixation durations? Which approach can deal with right-censored observations (e.g., trials without a response)? Dr. Richard Ramsey and I developed a set of tutorials for applying Bayesian event history analysis to response time (RT) data, and Bayesian micro-level speed-accuracy tradeoff analysis to timed accuracy data. The tutorials are written in R and can be downloaded here. A PsyArXiv preprint on the tutorials is available here."
   },
   {
     "objectID": "projects.html#bayesian-event-history-analysis",
     "href": "projects.html#bayesian-event-history-analysis",
     "title": "projects",
     "section": "",
-    "text": "What is the best way to analyze response times, saccade latencies, and fixation durations? Which approach can deal with right-censored observations (e.g., trials without a response)? Dr. Richard Ramsey and I developed a set of tutorials for applying Bayesian event history analysis to response time (RT) data, and Bayesian micro-level speed-accuracy tradeoff analysis to timed accuracy data. The tutorials are written in R and can be downloaded here."
+    "text": "What is the best way to analyze response times, saccade latencies, and fixation durations? Which approach can deal with right-censored observations (e.g., trials without a response)? Dr. Richard Ramsey and I developed a set of tutorials for applying Bayesian event history analysis to response time (RT) data, and Bayesian micro-level speed-accuracy tradeoff analysis to timed accuracy data. The tutorials are written in R and can be downloaded here. A PsyArXiv preprint on the tutorials is available here."
   },
   {
     "objectID": "projects.html#revisiting-the-speed-of-processing-hypothesis",
     "href": "projects.html#revisiting-the-speed-of-processing-hypothesis",
     "title": "projects",
     "section": "Revisiting the Speed-of-Processing Hypothesis",
-    "text": "Revisiting the Speed-of-Processing Hypothesis\nWhen is conflict detected by the brain? What is the temporal dynamics of conflict detection versus resolution? We apply event history analysis and micro-level speed-accuracy tradeoff analysis to the RT + accuracy data measurend in various manual interference tasks (Stroop, Simon, flanker, stop-signal) that employ a stimulus-onset-asynchrony manipulation, to study whether the onset of interference in the hazard functions of response occurrence is time-locked to the visual onset of the task-irrelevant feature. For example, does word meaning in the Stroop task causes conflict ~450 ms after the letters appear? Does spatial location in the Simon task causes conflict ~150 ms after the location is stimulated?"
+    "text": "Revisiting the Speed-of-Processing Hypothesis\nWhen is conflict detected by the brain? What is the temporal dynamics of conflict detection versus resolution? We apply event history analysis and micro-level speed-accuracy tradeoff analysis to the RT + accuracy data measurend in various manual interference tasks (Stroop, Simon, flanker, stop-signal) that employ a stimulus-onset-asynchrony manipulation, to study whether the onset of interference in the hazard functions of response occurrence is time-locked to the visual onset of the task-irrelevant feature. For example, does word meaning in the Stroop task causes conflict starting around 450 ms after the letters appear? Does spatial location in the Simon task causes conflict starting around 150 ms after the location is stimulated?"
   },
   {
     "objectID": "publications.html",
