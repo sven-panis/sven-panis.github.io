@@ -1,6 +1,8 @@
 ---
 title: "publications"
-format: html
+format: 
+  html:
+    fontsize: .8rem
 ---
 
 ## Clinical experimental psychology
