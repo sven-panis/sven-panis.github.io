@@ -1,0 +1,11 @@
+---
+title: "misc."
+format: html
+---
+
+My father is an oil painter. Here is some of his work.
+
+![Painting1](IMG-20250920-WA0004.jpg)
+
+
+
