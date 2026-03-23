@@ -5,7 +5,7 @@ format: html
 
 ## Bayesian Event History Analysis
 
-What is the most informative and less biased way to analyze response times, saccade latencies, and fixation durations? Which approach can deal with right-censored observations (e.g., trials without a response)? Dr. Richard Ramsey and I developed a set of tutorials for applying Bayesian event history analysis to response time (RT) data, and Bayesian micro-level speed-accuracy tradeoff analysis to timed accuracy data. The tutorials are written in R and can be downloaded [here](https://github.com/sven-panis/Tutorial_Event_History_Analysis). A PsyArXiv preprint on the tutorials is available [here](https://osf.io/preprints/psyarxiv/57bh6_v2).
+What is the most informative and less biased way to analyze response times, saccade latencies, and fixation durations? Which approach can deal with right-censored observations (e.g., trials without a response)? Dr. Richard Ramsey and I developed a set of tutorials for applying Bayesian event history analysis to response time (RT) data, and Bayesian micro-level speed-accuracy tradeoff analysis to timed accuracy data. The tutorials are written in R and can be downloaded [here](https://github.com/sven-panis/Tutorial_Event_History_Analysis). A PsyArXiv preprint on the tutorials is available [here](https://osf.io/preprints/psyarxiv/57bh6_v3).
 
 
 ## Revisiting the Speed-of-Processing Hypothesis
