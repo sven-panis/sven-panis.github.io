@@ -8,4 +8,4 @@ Examples of empirical single-subject distributions observed in choice RT tasks (
 Furthermore, for the spatial cueing task, we infer that the participant transitions through at least three motor states during a trial: a first state running from -160 to -40 ms, reflecting the "automatic" response to the peripheral cue; a second state running from 0 to 160 ms, where conditional accuracies reverse (likely due to selective suppression of the premature response tendency); and a third state where conditional accuracy increases to 1 and the hazard functions display the famous *inhibition-of-return* effect (i.e., a lower mean RT in invalid compared to valid cueing, which translates to a higher hazard for invalid compared to valid cueing). 
 
 
-![Figure 1](Plot_distributions_empirical.png)
+![Figure1](Plot_distributions_empirical.png)
