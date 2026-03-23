@@ -18,7 +18,7 @@
     "href": "EHAexamples.html",
     "title": "examples",
     "section": "",
-    "text": "Examples of empirical single-subject distributions observed in choice RT tasks (see Figure 1 below). Sample-based hazard (A, C, E) and conditional accuracy functions (B, D, F) are plotted for three tasks. (A, B). Visual search data from Panis et al. (2020). The participant searches for a target defined by a conjunction of “red” and “vertical”. (C, D). Spatial cueing data from Panis and Schmidt (2022). The participant indicates whether a peripheral target stimulus is presented to the left or right of fixation. The target is preceded by a central cue, and the central cue is preceded by a peripheral cue at the same (valid) or opposite (invalid) side as the target. (E, F) Unpublished data. The participant discriminates the direction of a horizontal arrow (imperative stimulus, presented at time zero), and when a stop-signal is presented with a certain stop-signal delay (ssd; see vertical lines), the participant is trying to suppress the overt response.\nFurthermore, for the spatial cueing task, we infer that the participant transitions through at least three motor states during a trial: a first state running from -160 to -40 ms, reflecting the “automatic” response to the peripheral cue; a second state running from 0 to 160 ms, where conditional accuracies reverse (likely due to selective suppression of the premature response tendency); and a third state where conditional accuracy increases to 1 and the hazard functions display the famous inhibition-of-return effect (i.e., a lower mean RT in invalid compared to valid cueing, which translates to a higher hazard for invalid compared to valid cueing).\n\n\n\nFigure1"
+    "text": "Examples of empirical single-subject distributions observed in choice RT tasks (see Figure 1 below). Sample-based hazard (A, C, E) and conditional accuracy functions (B, D, F) are plotted for three tasks. (A, B). Visual search data from Panis et al. (2020). The participant searches for a target defined by a conjunction of “red” and “vertical”. (C, D). Spatial cueing data from Panis and Schmidt (2022). The participant indicates whether a peripheral target stimulus is presented to the left or right of fixation. The target is preceded by a central cue, and the central cue is preceded by a peripheral cue at the same (valid) or opposite (invalid) side as the target. (E, F) Unpublished data. The participant discriminates the direction of a horizontal arrow (imperative stimulus, presented at time zero), and when a stop-signal is presented with a certain stop-signal delay (ssd; see vertical lines), the participant is trying to suppress the overt response.\nFurthermore, for the spatial cueing task, we infer that the participant transitions through at least three motor states during a trial: a first state running from -160 to -40 ms, reflecting the “automatic” response to the peripheral cue; a second state running from 0 to 160 ms, where conditional accuracies reverse (likely due to selective suppression of the premature response tendency); and a third state where conditional accuracy increases to 1 and the hazard functions display the famous inhibition-of-return effect (i.e., a lower mean RT in invalid compared to valid cueing, which translates to a higher hazard for invalid compared to valid cueing).\n\n\n\nFigure 1"
   },
   {
     "objectID": "projects.html",
@@ -40,6 +40,13 @@
     "title": "projects",
     "section": "Revisiting the Speed-of-Processing Hypothesis",
     "text": "Revisiting the Speed-of-Processing Hypothesis\nWhen is conflict detected by the brain? What is the temporal dynamics of conflict detection versus resolution? We apply event history analysis and micro-level speed-accuracy tradeoff analysis to the RT + accuracy data measurend in various manual interference tasks (Stroop, Simon, flanker, stop-signal) that employ a stimulus-onset-asynchrony manipulation, to study whether the onset of interference in the hazard functions of response occurrence is time-locked to the visual onset of the task-irrelevant feature. For example, does word meaning in the Stroop task causes conflict starting around 450 ms after the letters appear? Does spatial location in the Simon task causes conflict starting around 150 ms after the location is stimulated?"
+  },
+  {
+    "objectID": "projects.html#stroop-effects-in-rt-distributions-and-pupillometry",
+    "href": "projects.html#stroop-effects-in-rt-distributions-and-pupillometry",
+    "title": "projects",
+    "section": "Stroop effects in RT distributions and pupillometry",
+    "text": "Stroop effects in RT distributions and pupillometry\nHow do Stroop effects in RT distributions versus pupil size time series compare? Can we identify all three conflict components (task, semantic, response conflict) in both dependent measures? Is there a constant subject-specific time lag between the onset of a Stroop conflict component in RT data and in pupil size data? Does the pre-stimulus pupil size affect the shape of the RT distributions?"
   },
   {
     "objectID": "publications.html",
@@ -82,12 +89,5 @@
     "title": "publications",
     "section": "Human factors",
     "text": "Human factors\nMuramalla, S., Tarawneh, R. A., Humayoun, S. R., Moses, R., Panis, S., & Ebert, A. (2017). Radial vs. rectangular: Evaluating visualization layout impact on user task performance of hierarchical data. IADIS International Journal on Computer Science & Information Systems, 12(2), 17-31."
-  },
-  {
-    "objectID": "projects.html#stroop-effects-in-rt-distributions-and-pupillometry",
-    "href": "projects.html#stroop-effects-in-rt-distributions-and-pupillometry",
-    "title": "projects",
-    "section": "Stroop effects in RT distributions and pupillometry",
-    "text": "Stroop effects in RT distributions and pupillometry\nHow do Stroop effects in RT distributions versus pupil size time series compare? Can we identify all three conflict components (task, semantic, response conflict) in both dependent measures? Is there a constant subject-specific time lag between the onset of a Stroop conflict component in RT data and in pupil size data? Does the pre-stimulus pupil size affect the shape of the RT distributions?"
   }
 ]
